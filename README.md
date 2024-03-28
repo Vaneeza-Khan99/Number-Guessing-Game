@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-This is an easy number guessing game.
+This is cli based  number guessing game.
